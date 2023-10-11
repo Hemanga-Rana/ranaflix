@@ -1,3 +1,8 @@
+### Website Preview:
+Website Link: https://ranaflix.vercel.app/
+
+![screencapture-ranaflix-vercel-app-2023-10-11-20_54_32](https://github.com/Hemanga-Rana/ranaflix/assets/95037269/733afa73-fcc5-41cd-856f-2b0f3099a360)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
